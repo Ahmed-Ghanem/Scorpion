@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.scorpion.Base
+OpenIDE-Module-Layer: org/scorpion/Base/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/scorpion/Base/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
